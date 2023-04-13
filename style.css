@@ -79,3 +79,18 @@ button {
 .informational:hover {
     cursor: url('./images/cursor_intrucoes.png'), pointer;
 }
+
+footer {
+    width: 100%;
+    background-color: #ff6b28;
+    text-align: center;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+footer p {
+    width: 50%;
+    margin: auto;
+    line-height: 1.5rem;
+    color: white;
+}
